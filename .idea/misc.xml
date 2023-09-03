@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/drawable/button_bg.xml" value="0.2115" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/drawable/input_bg.xml" value="0.2115" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_applicato_successo.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_contattaci.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_grazie_tasso.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_limite_premio.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_lista_delle_vivande.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_main.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_notifica.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_politica_sulla_riservatezza.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_prestito_periodo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_prestito_quantita.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_prestito_termini.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_profilo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_striscia_pagina.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Spanish/app/src/main/res/layout/activity_termini_condizioni.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

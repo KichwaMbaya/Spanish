@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="la">Fondos Rápidos puede otorgar un préstamo instantáneo para ayudar a todas las personas en los EE. UU. que necesitan dinero para hacer crecer sus negocios, ir de compras o financiar cualquier otra emergencia.</string>
+    <string name="lb">1. Producto:</string>
+    <string name="lc">• Monto del préstamo: €10 – €2500</string>
+    <string name="ld">• Período de préstamo: 90 días - 365 días</string>
+    <string name="le">Límite máximo de préstamo: €2500</string>
+    <string name="lf">Interés bajo (TAE máxima): 12% anual</string>
+    <string name="lg">Por ejemplo: para préstamos de €200 con un plazo de 90 días, las tarifas que se cobran son las siguientes:</string>
+    <string name="lh">Tasa de interés mensual: 12% / 12 = 1,00%</string>
+    <string name="li">Interés mensual: €200 * 1,00% = €2</string>
+    <string name="lj">Pago mensual total: €200 / 3 + €2 = €68,67</string>
+    <string name="lk">La factura de reembolso total, incluidos el capital y los intereses, será:</string>
+    <string name="ll">€200 + €200* 1,00%*3 = €206</string>
+    <string name="lm">1.¿Por qué préstamo de Fondos Rápidos?</string>
+    <string name="ln">• No se requiere informe de crédito</string>
+    <string name="lo">• Proceso sin papel y digital en tu móvil</string>
+    <string name="lp">• Sin requisitos de garantía</string>
+    <string name="lq">• Obtenga acceso al préstamo las 24 horas del día, los 7 días de la semana, en cualquier momento y en cualquier lugar</string>
+    <string name="lr">• Desembolsamos a su cuenta bancaria directamente dentro de los 30 minutos una vez aprobado</string>
+    <string name="ls">• Disponible en toda España.</string>
+    <string name="lt">• A medida que crece el puntaje crediticio, el límite del préstamo aumenta gradualmente</string>
+    <string name="lu">• Variedad de métodos de pago convenientes</string>
+    <string name="lv">• Puede solicitar una extensión de préstamo si no tiene suficiente dinero para pagar</string>
+    <string name="lw">2.Quién puede solicitar un préstamo</string>
+    <string name="lx">• Residente española</string>
+    <string name="lz">• 18-60 años</string>
+    <string name="ma">• Tiene una fuente de ingresos.</string>
+    <string name="mb">3.¿Cómo pagar el préstamo?</string>
+    <string name="mc">Puede pagarnos a través de nuestra cuenta bancaria, que se le proporcionará una vez que tome prestado su préstamo.</string>
+    <string name="md">• Ingrese cualquier cantidad que desee pagar</string>
+    <string name="me">• Un buen pago aumentará su puntaje de crédito</string>
+    <string name="mf">4. Seguridad</string>
+    <string name="mg">Sus datos están a salvo con nosotros. Se nos transfiere a través de una conexión HTTPS segura y no lo compartimos con nadie sin su consentimiento, excepto con los Prestamistas. Todas las transacciones están protegidas mediante un cifrado SSL de 128 bits.</string>
+    <string name="mh">5.CONTÁCTENOS</string>
+    <string name="mi">Si tiene alguna pregunta, puede enviarnos un correo electrónico a vclxservices@yahoo.com</string>
+
+</resources>

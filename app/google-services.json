@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68590955383",
+    "project_id": "spanish-876f9",
+    "storage_bucket": "spanish-876f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68590955383:android:761c720b020ee3722ccf72",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.krygdistwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68590955383-e8rm1avnhmodsojb069uifmab9m5c54n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdb81xTngyKDVX7EYByHhOF9iYwk-cnDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68590955383-e8rm1avnhmodsojb069uifmab9m5c54n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

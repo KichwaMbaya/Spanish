@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Spanish"
+        tools:targetApi="31">
+        <activity
+            android:name=".grenze_witz"
+            android:exported="false" />
+        <activity
+            android:name=".grazie_tasso"
+            android:exported="false" />
+        <activity
+            android:name=".termini_condizioni"
+            android:exported="false" />
+        <activity
+            android:name=".striscia_pagina"
+            android:exported="false" />
+        <activity
+            android:name=".finitura"
+            android:exported="false" />
+        <activity
+            android:name=".registrati"
+            android:exported="false" />
+        <activity
+            android:name=".profilo"
+            android:exported="false" />
+        <activity
+            android:name=".politica_sulla_riservatezza"
+            android:exported="false" />
+        <activity
+            android:name=".notifica"
+            android:exported="false"
+            android:theme="@style/Theme.Spanish.popMe" />
+        <activity
+            android:name=".lista_delle_vivande"
+            android:exported="false"
+            android:theme="@style/Theme.Spanish.popMe" />
+        <activity
+            android:name=".principale2"
+            android:exported="false" />
+        <activity
+            android:name=".accesso"
+            android:exported="false" />
+        <activity
+            android:name=".prestito_termini"
+            android:exported="false" />
+        <activity
+            android:name=".prestito_periodo"
+            android:exported="false" />
+        <activity
+            android:name=".prestito_quantita"
+            android:exported="false" />
+        <activity
+            android:name=".limite_premio"
+            android:exported="false" />
+        <activity
+            android:name=".Contattaci"
+            android:exported="false" />
+        <activity
+            android:name=".bancarie_coordinate"
+            android:exported="false" />
+        <activity
+            android:name=".applicato_successo"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".Notification_Alarm" />
+        <receiver android:name=".Notification_Alarm2" />
+    </application>
+
+</manifest>
